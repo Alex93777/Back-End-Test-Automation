@@ -1,0 +1,16 @@
+{
+  "name": "regular-exam-task-3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^5.1.2",
+    "mocha": "^10.8.2"
+  }
+}

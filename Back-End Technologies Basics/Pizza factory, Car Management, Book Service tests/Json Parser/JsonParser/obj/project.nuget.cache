@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZGpa7zeLlAtDDPPhnt8eTl3lE2R+/Z6h/yCUBfBgWauxpBdQvlSaqHhsIiI3zoVu4rG16iRCU4c7BFuX98BgdA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\Desktop\\Regular Exam\\JsonParser\\JsonParser.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.29\\microsoft.netcore.app.host.win-x64.6.0.29.nupkg.sha512"
+  ],
+  "logs": []
+}
