@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PC\\Desktop\\Exam Prep 1\\Skeleton\\ApiTests\\ApiTests.csproj": {}
+    "C:\\Users\\PC\\Desktop\\Back-End-Test-Automation\\Back-End Test Automation\\TravelersApiTests\\ApiTests\\ApiTests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PC\\Desktop\\Exam Prep 1\\Skeleton\\ApiTests\\ApiTests.csproj": {
+    "C:\\Users\\PC\\Desktop\\Back-End-Test-Automation\\Back-End Test Automation\\TravelersApiTests\\ApiTests\\ApiTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PC\\Desktop\\Exam Prep 1\\Skeleton\\ApiTests\\ApiTests.csproj",
+        "projectUniqueName": "C:\\Users\\PC\\Desktop\\Back-End-Test-Automation\\Back-End Test Automation\\TravelersApiTests\\ApiTests\\ApiTests.csproj",
         "projectName": "ApiTests",
-        "projectPath": "C:\\Users\\PC\\Desktop\\Exam Prep 1\\Skeleton\\ApiTests\\ApiTests.csproj",
+        "projectPath": "C:\\Users\\PC\\Desktop\\Back-End-Test-Automation\\Back-End Test Automation\\TravelersApiTests\\ApiTests\\ApiTests.csproj",
         "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PC\\Desktop\\Exam Prep 1\\Skeleton\\ApiTests\\obj\\",
+        "outputPath": "C:\\Users\\PC\\Desktop\\Back-End-Test-Automation\\Back-End Test Automation\\TravelersApiTests\\ApiTests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
