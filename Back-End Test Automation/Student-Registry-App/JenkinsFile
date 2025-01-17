@@ -1,0 +1,41 @@
+pipeline{
+    agent any
+
+    stages {
+        stage('Checkout'){
+            steps{
+                git branch: 'main', url: 'https://github.com/Alex93777/Student-Registry-App'
+            }
+        }
+
+        stage("Install dependencies"){
+            steps{
+                script{
+                    bat 'npm install'
+                }
+            }
+        }
+
+        stage("Start application and run tests")
+        {
+            steps{
+                script{
+                    bat 'start /b npm start'
+                }
+            }
+        }
+
+        stage("run tests"){
+            steps{
+                bat 'npm test'
+            }
+        }
+
+    }
+    
+    post {
+        always{
+            echo "CI pipeline completed"
+        }
+    }
+}
