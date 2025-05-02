@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\QA\\Back-End Test Automation\\Back-End Test Automation\\Homework\\WorkshopAdvanced\\WorkshopAdvanced\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B02DBBF-EC9E-4CE1-ACE1-7B513B97FFBF}|WorkshopAdvanced.csproj|d:\\qa\\back-end test automation\\back-end test automation\\homework\\workshopadvanced\\workshopadvanced\\ordermanagementtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B02DBBF-EC9E-4CE1-ACE1-7B513B97FFBF}|WorkshopAdvanced.csproj|solutionrelative:ordermanagementtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B02DBBF-EC9E-4CE1-ACE1-7B513B97FFBF}|WorkshopAdvanced.csproj|d:\\qa\\back-end test automation\\back-end test automation\\homework\\workshopadvanced\\workshopadvanced\\colormanagementtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B02DBBF-EC9E-4CE1-ACE1-7B513B97FFBF}|WorkshopAdvanced.csproj|solutionrelative:colormanagementtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B02DBBF-EC9E-4CE1-ACE1-7B513B97FFBF}|WorkshopAdvanced.csproj|d:\\qa\\back-end test automation\\back-end test automation\\homework\\workshopadvanced\\workshopadvanced\\usermanagementtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B02DBBF-EC9E-4CE1-ACE1-7B513B97FFBF}|WorkshopAdvanced.csproj|solutionrelative:usermanagementtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B02DBBF-EC9E-4CE1-ACE1-7B513B97FFBF}|WorkshopAdvanced.csproj|d:\\qa\\back-end test automation\\back-end test automation\\homework\\workshopadvanced\\workshopadvanced\\productmanagementtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B02DBBF-EC9E-4CE1-ACE1-7B513B97FFBF}|WorkshopAdvanced.csproj|solutionrelative:productmanagementtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B02DBBF-EC9E-4CE1-ACE1-7B513B97FFBF}|WorkshopAdvanced.csproj|d:\\qa\\back-end test automation\\back-end test automation\\homework\\workshopadvanced\\workshopadvanced\\globalconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B02DBBF-EC9E-4CE1-ACE1-7B513B97FFBF}|WorkshopAdvanced.csproj|solutionrelative:globalconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B02DBBF-EC9E-4CE1-ACE1-7B513B97FFBF}|WorkshopAdvanced.csproj|d:\\qa\\back-end test automation\\back-end test automation\\homework\\workshopadvanced\\workshopadvanced\\couponmanagementtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B02DBBF-EC9E-4CE1-ACE1-7B513B97FFBF}|WorkshopAdvanced.csproj|solutionrelative:couponmanagementtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B02DBBF-EC9E-4CE1-ACE1-7B513B97FFBF}|WorkshopAdvanced.csproj|d:\\qa\\back-end test automation\\back-end test automation\\homework\\workshopadvanced\\workshopadvanced\\blogmanagementtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B02DBBF-EC9E-4CE1-ACE1-7B513B97FFBF}|WorkshopAdvanced.csproj|solutionrelative:blogmanagementtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserManagementTests.cs",
+              "DocumentMoniker": "D:\\QA\\Back-End Test Automation\\Back-End Test Automation\\Homework\\WorkshopAdvanced\\WorkshopAdvanced\\UserManagementTests.cs",
+              "RelativeDocumentMoniker": "UserManagementTests.cs",
+              "ToolTip": "D:\\QA\\Back-End Test Automation\\Back-End Test Automation\\Homework\\WorkshopAdvanced\\WorkshopAdvanced\\UserManagementTests.cs",
+              "RelativeToolTip": "UserManagementTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T11:25:00.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductManagementTests.cs",
+              "DocumentMoniker": "D:\\QA\\Back-End Test Automation\\Back-End Test Automation\\Homework\\WorkshopAdvanced\\WorkshopAdvanced\\ProductManagementTests.cs",
+              "RelativeDocumentMoniker": "ProductManagementTests.cs",
+              "ToolTip": "D:\\QA\\Back-End Test Automation\\Back-End Test Automation\\Homework\\WorkshopAdvanced\\WorkshopAdvanced\\ProductManagementTests.cs",
+              "RelativeToolTip": "ProductManagementTests.cs",
+              "ViewState": "AQIAAL4AAAAAAAAAAAAAAIgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T11:40:26.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderManagementTests.cs",
+              "DocumentMoniker": "D:\\QA\\Back-End Test Automation\\Back-End Test Automation\\Homework\\WorkshopAdvanced\\WorkshopAdvanced\\OrderManagementTests.cs",
+              "RelativeDocumentMoniker": "OrderManagementTests.cs",
+              "ToolTip": "D:\\QA\\Back-End Test Automation\\Back-End Test Automation\\Homework\\WorkshopAdvanced\\WorkshopAdvanced\\OrderManagementTests.cs",
+              "RelativeToolTip": "OrderManagementTests.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAQwB0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T10:12:39.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CouponManagementTests.cs",
+              "DocumentMoniker": "D:\\QA\\Back-End Test Automation\\Back-End Test Automation\\Homework\\WorkshopAdvanced\\WorkshopAdvanced\\CouponManagementTests.cs",
+              "RelativeDocumentMoniker": "CouponManagementTests.cs",
+              "ToolTip": "D:\\QA\\Back-End Test Automation\\Back-End Test Automation\\Homework\\WorkshopAdvanced\\WorkshopAdvanced\\CouponManagementTests.cs",
+              "RelativeToolTip": "CouponManagementTests.cs",
+              "ViewState": "AQIAAKEAAAAAAAAAAAAIwLQAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T17:24:47.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ColorManagementTests.cs",
+              "DocumentMoniker": "D:\\QA\\Back-End Test Automation\\Back-End Test Automation\\Homework\\WorkshopAdvanced\\WorkshopAdvanced\\ColorManagementTests.cs",
+              "RelativeDocumentMoniker": "ColorManagementTests.cs",
+              "ToolTip": "D:\\QA\\Back-End Test Automation\\Back-End Test Automation\\Homework\\WorkshopAdvanced\\WorkshopAdvanced\\ColorManagementTests.cs",
+              "RelativeToolTip": "ColorManagementTests.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAEQAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T11:50:04.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BlogManagementTests.cs",
+              "DocumentMoniker": "D:\\QA\\Back-End Test Automation\\Back-End Test Automation\\Homework\\WorkshopAdvanced\\WorkshopAdvanced\\BlogManagementTests.cs",
+              "RelativeDocumentMoniker": "BlogManagementTests.cs",
+              "ToolTip": "D:\\QA\\Back-End Test Automation\\Back-End Test Automation\\Homework\\WorkshopAdvanced\\WorkshopAdvanced\\BlogManagementTests.cs",
+              "RelativeToolTip": "BlogManagementTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T09:08:07.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GlobalConstants.cs",
+              "DocumentMoniker": "D:\\QA\\Back-End Test Automation\\Back-End Test Automation\\Homework\\WorkshopAdvanced\\WorkshopAdvanced\\GlobalConstants.cs",
+              "RelativeDocumentMoniker": "GlobalConstants.cs",
+              "ToolTip": "D:\\QA\\Back-End Test Automation\\Back-End Test Automation\\Homework\\WorkshopAdvanced\\WorkshopAdvanced\\GlobalConstants.cs",
+              "RelativeToolTip": "GlobalConstants.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBoAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T18:27:17.611Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
